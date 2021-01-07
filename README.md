@@ -1,6 +1,6 @@
-# sensor_check_app
+# BMI Calculator
 
-A new Flutter application.
+A Flutter application that helps you to calculate your Body-mass Index.
 
 ## Getting Started
 
